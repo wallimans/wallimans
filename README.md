@@ -5,7 +5,7 @@ I'm an aspiring IT professional based in the Willamette Valley, with a passion f
 ### Projects:
 ---
 
-- Installing Windows Server 2022 on Azure Cloud
+- [Installing Windows Server 2019 on Azure Cloud](https://github.com/wallimans/Home-Lab/tree/main/Virtual-Machines/Microsoft-Azure/Creating-Windows-Server-2019)
 
 ### Skills:
 ---
