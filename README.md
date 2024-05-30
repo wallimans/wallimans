@@ -17,7 +17,9 @@ I'm an aspiring IT professional based in the Willamette Valley, with a passion f
 ### Certifications and Courses:
 ---
 
-- CompTIA A+, Network+, Security+
+- CompTIA A+
+- CompTIA Network+
+- CompTIA Security+
 - Google Cybersecurity Certificate
 - Cisco CCNA (in progress)
 
