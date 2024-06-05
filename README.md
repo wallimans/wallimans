@@ -13,7 +13,7 @@ I'm an aspiring IT professional based in the Willamette Valley, with a passion f
 ## Skills:
 
 - OSs: Linux, macOS, Windows
-- Programming Languages: Python, Bash
+- Programming Languages: Python, Bash, Powershell
 - Troubleshooting: Hardware/Software/Network
 
 
