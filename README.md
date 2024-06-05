@@ -16,7 +16,7 @@ I'm an aspiring IT professional based in the Willamette Valley, with a passion f
 - Programming Languages: Python, Bash, Powershell
 - Troubleshooting: Hardware/Software/Network
 - Documentation: Technical Reports, Procedural Guides, User Manuals
-- Ticketing Systems: Knowledge Bases
+- Ticketing Systems: Issue Tracking, Knowledge Bases
 
 
 ## Certifications and Courses:
