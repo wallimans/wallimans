@@ -14,6 +14,7 @@ I'm an aspiring IT professional based in the Willamette Valley, with a passion f
 
 - OSs: Linux, macOS, Windows
 - Programming Languages: Python, Bash
+- Troubleshooting: Hardware/Software/Network
 
 
 ## Certifications and Courses:
