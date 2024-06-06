@@ -7,7 +7,7 @@ I'm an aspiring IT professional based in the Willamette Valley with a passion fo
 - [Active Directory](https://github.com/wallimans/Home-Lab/blob/main/Active-Directory/README.md)
   - [Part One](https://github.com/wallimans/Home-Lab/tree/main/Active-Directory/Part-One) Installing Active Directory Services, Creating Admin OU and User Account
   - [Part Two](https://github.com/wallimans/Home-Lab/tree/main/Active-Directory/Part-Two) Configuring RAS/NAT and DHCP
-  - [Part Three](https://github.com/wallimans/Home-Lab/tree/main/Active-Directory/Part-Three) Creating Admins OU and 1,000 Users with Powershell
+  - [Part Three](https://github.com/wallimans/Home-Lab/tree/main/Active-Directory/Part-Three) Creating Users OU and 1,000 Users with Powershell
 
 ## Skills:
 
