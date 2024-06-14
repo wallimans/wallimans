@@ -12,11 +12,12 @@ I'm an aspiring IT professional based in the Willamette Valley with a passion fo
 
 ## Skills:
 
-- OSs: Linux, macOS, Windows
-- Programming Languages: Python, Bash, Powershell
-- Troubleshooting: Hardware/Software/Network
-- Documentation: Technical Reports, Procedural Guides, User Manuals
-- Ticketing Systems: Issue Tracking, Knowledge Bases
+Operating Systems: Windows, macOS, Linux, iOS, Android
+Troubleshooting: Hardware, Software, Network
+Programming/Scripting: Python, Bash, Powershell, SQL, CLI
+Documentation: Technical Reports, Procedural Guides, User Manuals
+Ticketing Systems: Issue Tracking, Knowledge Bases
+Software: Microsoft Office Suite
 
 
 ## Certifications and Courses:
