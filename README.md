@@ -38,19 +38,9 @@ I'm an IT professional with a growing focus on defensive cybersecurity. I'm expa
 ## Certifications and Courses:
 
 <div>
-<a href="https://www.credly.com/badges/aa180598-bdbd-4697-b5e8-8233d7645fb7/public_url">
-<img src="https://img.shields.io/badge/CompTIA%20A%2B-4D4D4D?style=flat-square&logo=compTIA&logoColor=white" />
-</a><br>
-<a href="https://www.credly.com/badges/30ea87a2-cb1e-4c94-bb95-bac643275012/public_url">
-<img src="https://img.shields.io/badge/CompTIA%20Network%2B-007ACC?style=flat-square&logo=compTIA&logoColor=white" />
-</a><br>
-<a href="https://www.credly.com/badges/acf4226d-37f9-4e04-8f15-885631fed1d0/public_url">
-<img src="https://img.shields.io/badge/CompTIA%20Security%2B-E40000?style=flat-square&logo=compTIA&logoColor=white" />
-</a><br>
-<a href="https://www.credly.com/badges/688cc52a-c360-461d-995a-f04f9e71ddb4/public_url">
-<img src="https://img.shields.io/badge/CyberDefenders%20CCDL1-335EEA?style=flat-square&logo=cyberdefenders&logoColor=white" />
-</a><br>
-<a href="https://www.credly.com/badges/e198fa3d-337d-40df-8874-a1a78f370d3f/public_url">
-<img src="https://img.shields.io/badge/Google%20Cybersecurity%20Certificate-4285F4?style=flat-square&logo=google&logoColor=white" />
-</a>
+  <a href="https://www.credly.com/badges/aa180598-bdbd-4697-b5e8-8233d7645fb7/public_url"><img src="https://img.shields.io/badge/CompTIA%20A%2B-4D4D4D?style=flat-square&logo=compTIA&logoColor=white" /></a>&nbsp;
+  <a href="https://www.credly.com/badges/30ea87a2-cb1e-4c94-bb95-bac643275012/public_url"><img src="https://img.shields.io/badge/CompTIA%20Network%2B-007ACC?style=flat-square&logo=compTIA&logoColor=white" /></a>&nbsp;
+  <a href="https://www.credly.com/badges/acf4226d-37f9-4e04-8f15-885631fed1d0/public_url"><img src="https://img.shields.io/badge/CompTIA%20Security%2B-E40000?style=flat-square&logo=compTIA&logoColor=white" /></a>&nbsp;
+  <a href="https://www.credly.com/badges/688cc52a-c360-461d-995a-f04f9e71ddb4/public_url"><img src="https://img.shields.io/badge/CyberDefenders%20CCDL1-335EEA?style=flat-square&logo=cyberdefenders&logoColor=white" /></a>&nbsp;
+  <a href="https://www.credly.com/badges/e198fa3d-337d-40df-8874-a1a78f370d3f/public_url"><img src="https://img.shields.io/badge/Google%20Cybersecurity%20Certificate-4285F4?style=flat-square&logo=google&logoColor=white" /></a>
 </div>
